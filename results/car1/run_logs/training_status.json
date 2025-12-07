@@ -1,0 +1,29 @@
+{
+    "CarParking": {
+        "checkpoints": [
+            {
+                "steps": 490474,
+                "file_path": "results\\car1\\CarParking\\CarParking-490474.onnx",
+                "reward": -4.997750364243984,
+                "creation_time": 1765068102.3290856,
+                "auxillary_file_paths": [
+                    "results\\car1\\CarParking\\CarParking-490474.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 490474,
+            "file_path": "results\\car1\\CarParking.onnx",
+            "reward": -4.997750364243984,
+            "creation_time": 1765068102.3290856,
+            "auxillary_file_paths": [
+                "results\\car1\\CarParking\\CarParking-490474.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

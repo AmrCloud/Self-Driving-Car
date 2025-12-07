@@ -1,0 +1,29 @@
+{
+    "ParkingCar": {
+        "checkpoints": [
+            {
+                "steps": 512,
+                "file_path": "results\\TestDrive01\\ParkingCar\\ParkingCar-512.onnx",
+                "reward": null,
+                "creation_time": 1764851486.8963954,
+                "auxillary_file_paths": [
+                    "results\\TestDrive01\\ParkingCar\\ParkingCar-512.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 512,
+            "file_path": "results\\TestDrive01\\ParkingCar.onnx",
+            "reward": null,
+            "creation_time": 1764851486.8963954,
+            "auxillary_file_paths": [
+                "results\\TestDrive01\\ParkingCar\\ParkingCar-512.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
