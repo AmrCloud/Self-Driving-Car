@@ -1,0 +1,38 @@
+{
+    "CarParking": {
+        "checkpoints": [
+            {
+                "steps": 499987,
+                "file_path": "results\\test1\\CarParking\\CarParking-499987.onnx",
+                "reward": 1.9032386436923392,
+                "creation_time": 1765071535.0056384,
+                "auxillary_file_paths": [
+                    "results\\test1\\CarParking\\CarParking-499987.pt"
+                ]
+            },
+            {
+                "steps": 500007,
+                "file_path": "results\\test1\\CarParking\\CarParking-500007.onnx",
+                "reward": 1.9032379248774196,
+                "creation_time": 1765071535.0539622,
+                "auxillary_file_paths": [
+                    "results\\test1\\CarParking\\CarParking-500007.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500007,
+            "file_path": "results\\test1\\CarParking.onnx",
+            "reward": 1.9032379248774196,
+            "creation_time": 1765071535.0539622,
+            "auxillary_file_paths": [
+                "results\\test1\\CarParking\\CarParking-500007.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

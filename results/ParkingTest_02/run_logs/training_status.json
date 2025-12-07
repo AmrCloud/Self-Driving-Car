@@ -1,0 +1,65 @@
+{
+    "CarParking": {
+        "checkpoints": [
+            {
+                "steps": 1499999,
+                "file_path": "results\\ParkingTest_02\\CarParking\\CarParking-1499999.onnx",
+                "reward": -1.062969956099987,
+                "creation_time": 1765088280.2214608,
+                "auxillary_file_paths": [
+                    "results\\ParkingTest_02\\CarParking\\CarParking-1499999.pt"
+                ]
+            },
+            {
+                "steps": 1749760,
+                "file_path": "results\\ParkingTest_02\\CarParking\\CarParking-1749760.onnx",
+                "reward": null,
+                "creation_time": 1765088702.3792784,
+                "auxillary_file_paths": [
+                    "results\\ParkingTest_02\\CarParking\\CarParking-1749760.pt"
+                ]
+            },
+            {
+                "steps": 1766677,
+                "file_path": "results\\ParkingTest_02\\CarParking\\CarParking-1766677.onnx",
+                "reward": -1.8715052827408438,
+                "creation_time": 1765088760.071754,
+                "auxillary_file_paths": [
+                    "results\\ParkingTest_02\\CarParking\\CarParking-1766677.pt"
+                ]
+            },
+            {
+                "steps": 1999983,
+                "file_path": "results\\ParkingTest_02\\CarParking\\CarParking-1999983.onnx",
+                "reward": 1.8805761677878243,
+                "creation_time": 1765118270.4522772,
+                "auxillary_file_paths": [
+                    "results\\ParkingTest_02\\CarParking\\CarParking-1999983.pt"
+                ]
+            },
+            {
+                "steps": 2203842,
+                "file_path": "results\\ParkingTest_02\\CarParking\\CarParking-2203842.onnx",
+                "reward": 1.8977876607282662,
+                "creation_time": 1765118766.9450018,
+                "auxillary_file_paths": [
+                    "results\\ParkingTest_02\\CarParking\\CarParking-2203842.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2203842,
+            "file_path": "results\\ParkingTest_02\\CarParking.onnx",
+            "reward": 1.8977876607282662,
+            "creation_time": 1765118766.9450018,
+            "auxillary_file_paths": [
+                "results\\ParkingTest_02\\CarParking\\CarParking-2203842.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
